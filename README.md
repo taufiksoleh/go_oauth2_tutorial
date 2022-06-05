@@ -1,4 +1,4 @@
-# Google OAuth2.0 with Go Lang
+# Google OAuth2.0 with Go
 
 SET GOLANG ENV
 ```
